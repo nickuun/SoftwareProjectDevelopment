@@ -8,6 +8,7 @@ This file contains, in file order (Excluding ReadMe Document):
 The Android System
 The Project Database
 The Web Server/ Web Portal
+Some extracted research indicating the process of connecting an Android Device to a website.
 Deliverable 1 (outlining the desired scope of the project)
 
 Please Note:
